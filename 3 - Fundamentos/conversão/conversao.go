@@ -9,7 +9,7 @@ import (
 func main() {
 	x := 2.4
 	y := 2
-	// Para realizar uma operação como tipos de variáveis diferentes é preciso fazer a conversão
+	// Para realizar uma operação como 7 - Sistema de Tipos de variáveis diferentes é preciso fazer a conversão
 	fmt.Println(x / float64(y))
 
 	nota := 6.9

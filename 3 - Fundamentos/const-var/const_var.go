@@ -31,7 +31,7 @@ func main() {
 	var e, f bool = true, false
 	fmt.Println(e, f)
 
-	//Declaração em uma mesma linha varias variaveis com tipos diferentes
+	//Declaração em uma mesma linha varias variaveis com 7 - Sistema de Tipos diferentes
 	g, h, i := 2, false, "epa"
 	fmt.Println(g, h, i)
 

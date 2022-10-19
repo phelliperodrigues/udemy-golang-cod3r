@@ -42,6 +42,6 @@ func main() {
 	d := "opa"
 	fmt.Printf("\n%d %f %.1f %t %s", a, b, b, c, d)
 
-	//Também podemos utilizar o %v para fazer o binding de vários tipos de variáveis
+	//Também podemos utilizar o %v para fazer o binding de vários 7 - Sistema de Tipos de variáveis
 	fmt.Printf("\n%v %v %v %v", a, b, c, d)
 }
